@@ -82,8 +82,7 @@
             }
 
             function calcula_altura(){
-
-                $velocidadCero = 30;
+                
                 $gravedad = 9.8;
 
                 $altura = pow(30,2)/2*$gravedad;
