@@ -7,7 +7,6 @@
     <title>Science Technology Engineerig & Mathematics</title>
     <link rel="stylesheet" href="">
     <link rel="stylesheet" href="CSS/estilos.css">
-    <link rel="stylesheet" href="CSS/menu.css"/>
     <link rel="stylesheet" href="CSS/problema.css"/>
     <link href="https://fonts.googleapis.com/css?family=Rambla" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Be+Vietnam&display=swap" rel="stylesheet">
