@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Science Technology Engineerig & Mathematics</title>
-    <link rel="stylesheet" href="">
     <link rel="stylesheet" href="CSS/estilos.css">
     <link rel="stylesheet" href="CSS/problema.css"/>
     <link href="https://fonts.googleapis.com/css?family=Rambla" rel="stylesheet">
